@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #dac8c8;
+  color: beige;
+}
+header {
+  background-color: aqua;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+th,
+td {
+  padding: 10 px;
+  text-align: left;
+}
+
+.Raghito {
+  color: black;
+  background-color: blanchedalmond;
+}
+img {
+  width: 100px;
+}
+form {
+  margin-top: 20px;
+}
+lebel {
+  display: block;
+  mergin-bottom: 5px;
+}
+input {
+  width: 100%;
+  padding: 80;
+  margin-bottom: 20px;
+}
