@@ -3,12 +3,11 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background: #dac8c8;
-  color: beige;
+  background-color: beige;
 }
 header {
-  background-color: aqua;
-  color: white;
+  background-color: bisque;
+  color: rgb(4, 3, 3);
   text-align: center;
   padding: 10px 0;
 }
@@ -39,14 +38,22 @@ td {
   background-color: blanchedalmond;
 }
 img {
-  width: 100px;
+  width: 30%;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 10 px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0, 5);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
 }
 form {
   margin-top: 20px;
 }
 lebel {
   display: block;
-  mergin-bottom: 5px;
+  margin-bottom: 5px;
 }
 input {
   width: 100%;
